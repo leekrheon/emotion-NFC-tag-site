@@ -80,3 +80,4 @@ else:
 # 📊 감정 테이블
 st.subheader("📅 감정 기록 테이블")
 st.dataframe(df)
+
